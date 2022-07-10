@@ -1,1 +1,1 @@
-https://apankrats.github.io/project_portfolio
+https://apankrats.github.io/project_portfolio/portfolio.index.html
